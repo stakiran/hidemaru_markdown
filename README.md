@@ -114,6 +114,11 @@ Markdown の見出し表記をアウトラインとして扱えるようにし�
 
 ![cofirm_reload](https://user-images.githubusercontent.com/23325839/35152754-f877b866-fd66-11e7-89e8-9f4aee46ef55.jpg)
 
+## (2020/02/29 追記) 試験的に黒背景版も追加してみました
+![image](https://user-images.githubusercontent.com/23325839/75606127-190a9000-5b2d-11ea-9800-7bc1fc933bc4.png)
+
+→ [md_dark.hilight](md_dark.hilight)
+
 ## License
 [MIT License](LICENSE)
 
